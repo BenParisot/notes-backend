@@ -20,6 +20,9 @@
           "SwitchCase": 1
         }
       ],
+          "globals": {
+      "process": true
+    },
       "quotes": [
         "error",
         "single"
